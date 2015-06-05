@@ -1,0 +1,12 @@
+{
+    "namespace" : "com.github.jrh3k5.avro",
+    "type" : "record",
+    "name" : "TestObject",
+    "fields" : [
+        {
+            "name" : "byte_array",
+            "type" : "bytes",
+            "default": "null"
+        }
+    ]
+}
